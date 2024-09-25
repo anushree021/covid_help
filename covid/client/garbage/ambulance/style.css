@@ -1,0 +1,56 @@
+div
+{
+    
+    font-variant: small-caps;
+    font-size: 20px;
+    color: black;
+    font-family: 'Encode Sans SC', sans-serif;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+p
+{
+    font-variant: small-caps;
+    font-size: 20px;
+    color: black;
+    font-family: 'Encode Sans SC', sans-serif;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+main
+{
+    color: whitesmoke;
+    background-color: rgb(250, 250, 250,.5);
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+body
+{
+    
+background-image: url("pexels-photo-263402.jpeg");
+background-repeat:round;
+}
+#confirmation 
+{
+
+    color: whitesmoke;
+    display: block;
+    margin: 0 auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(8, 20, 20);
+    
+
+}
+a
+{
+
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
